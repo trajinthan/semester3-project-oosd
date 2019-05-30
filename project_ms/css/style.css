@@ -1,0 +1,12 @@
+.profile{
+    font-size:20px;
+    text-align:left;
+    font-family: serif,sans-serif;
+}
+.but{
+    box-sizing: border-box;
+    text-align:left;
+    border-radius: 80%;
+    background-color: gray;
+    border: solid rgb(39, 63, 90) 2px;
+}
